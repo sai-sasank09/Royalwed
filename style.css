@@ -169,7 +169,7 @@ span {
 /*----------------------Home-------------*/
 
 .home {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("back-1.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("images/back-1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -226,7 +226,7 @@ span {
 .services-col {
     height: 22rem;
     color: rgb(236, 68, 90);
-    background: url("back-2.png");
+    background: url("images/back-2.png");
     background-color: lightgray;
     background-position: center;
     background-size: cover;
